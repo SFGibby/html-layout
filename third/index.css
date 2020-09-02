@@ -1,0 +1,48 @@
+html, body{
+    margin: 0%;
+    padding: 0%;
+}
+
+.lemon{
+height:110px;
+width: 100%;
+}
+
+.lemon-giant{
+    height: 220px;
+    width: 100%;
+}
+
+.lemon-first{
+    padding: 25px;
+    box-sizing: border-box;
+    background-color: rgb(88, 76, 76);
+}
+
+.lemon-first-littlefreakingbox{
+    width: 70px;
+    height: 70px;
+    background-color: rgb(97, 97, 231);
+}
+
+.lemon-second{
+    padding: 70px;
+    box-sizing: border-box;
+    background-color: whitesmoke;
+}
+
+.lemon-third{
+    background-color: rgb(97, 97, 231);
+}
+
+.lemon-fourth{
+    background-color: rgb(83, 216, 171)
+}
+
+.lemon-fifth{
+    background-color: rgb(149, 238, 149)
+}
+
+.lemon-sixth{
+    background-color: rgb(240, 240, 8)
+}
