@@ -1,0 +1,69 @@
+body {
+    margin: 0;
+    padding: 20px;
+}
+
+header {
+    width: 100%;
+    padding: 12px;
+    box-sizing: border-box;
+    border: 10px solid cyan;
+}
+
+.top-stuff {
+    height: 140px;
+    width: 45px;
+    display: inline-block;
+    background: red;
+}
+
+.top-mid-stuff {
+    height: 180px;
+    width: 403px;
+    display: inline-block;
+    margin: 0 50px;
+    background: limegreen;
+}
+
+.the-other-stuff {
+    height: 190px;
+    width: 190px;
+    border-radius: 45%;
+    display: inline-block;
+    background: mediumaquamarine;
+}
+
+.middle-stuff {
+    width: 100%;
+    padding: 50px;
+    margin-top: 25px;
+    box-sizing: border-box;
+    border: 5px dotted darkblue;
+}
+.other-middle-stuff {
+    width: 100%;
+    height: 200px;
+    -webkit-box-shadow: 10px 10px 5px 0px black;
+    -moz-box-shadow: 10px 10px 5px 0px black;
+    box-shadow: 10px 10px 5px 0px black;
+    background-color: yellow;
+
+}
+
+.This-Better-Work {
+    width: 50%;
+    padding: 100px;
+    margin: 25px auto;
+    -webkit-box-shadow: 3px 3px 5px 0px black;
+    -moz-box-shadow: 3px 3px 5px 0px black;
+    box-shadow: 3px 3px 5px 0px black;
+    border: 1px solid #ccc;
+    background: white;
+}
+
+.This-Better-Work h1 {
+    width: 100%;
+    letter-spacing: 10px;
+    text-align: center;
+    color: skyblue;
+}
